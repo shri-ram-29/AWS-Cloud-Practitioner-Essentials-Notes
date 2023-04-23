@@ -1,5 +1,5 @@
 # AWS Cloud Practitioner Essential Notes
-## Welcome to my AWS Cloud Practitioner Essential Notes repository! This repository contains my notes on the key topics covered in the AWS Cloud Practitioner certification exam. These notes are designed to help you prepare for the exam and gain a better understanding of Amazon Web Services (AWS) cloud computing.
+### Welcome to my AWS Cloud Practitioner Essential Notes repository! This repository contains my notes on the key topics covered in the AWS Cloud Practitioner certification exam. These notes are designed to help you prepare for the exam and gain a better understanding of Amazon Web Services (AWS) cloud computing.
 
 # Table of Contents
 1. Introduction to Amazon Web Services
